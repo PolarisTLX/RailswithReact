@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2019-05-15
+  liftname: MyString
+  ismetric: false
+  weightlifted: 1
+  repsperformed: 1
+  onerepmax: 1
+
+two:
+  date: 2019-05-15
+  liftname: MyString
+  ismetric: false
+  weightlifted: 1
+  repsperformed: 1
+  onerepmax: 1
